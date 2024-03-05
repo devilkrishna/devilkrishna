@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devilkrishna&label=Profile%20views&color=0e75b6&style=flat" alt="devilkrishna" /> </p>
 
-- 🌱 I’m currently learning **python,DSA and AWS**
+- 🌱 I’m currently learning **python,HTML&CSS,SQL ,POWERBI and AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devilkrishna](https://github.com/devilkrishna)
 
