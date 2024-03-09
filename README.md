@@ -10,11 +10,11 @@
 
 - 💬 Ask me about **Programing languages and cloud computing**
 
-- 📫 How to reach me **gk16012001@gmail.com**
+- 📫 How to reach me **gopikrishnatiriveedhi79@gmail.com**
 
 - 📄 Know about my experiences [file:///C:/Users/k7ris/Downloads/un%20offical%20gk%20resume%20(1).pdf](file:///C:/Users/k7ris/Downloads/un%20offical%20gk%20resume%20(1).pdf)
 
-- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
+- ⚡ Fun fact **CHAI TASTE'S WAY BETTER THAN COFFEE | CHANGE MY MIND!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
